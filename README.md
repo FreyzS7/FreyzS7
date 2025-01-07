@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 I'm currently working as Roblox Game Developer and full-stack web Developer <br>open for job
 
 
