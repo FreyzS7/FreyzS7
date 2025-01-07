@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Roblox Game Developer and full-stack web Developer <br>looking for job
+I'm currently working as Roblox Game Developer and full-stack web Developer <br>open for job
 
 
 ## 🌐 Socials:
